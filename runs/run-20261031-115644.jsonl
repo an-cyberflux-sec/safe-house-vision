@@ -1,0 +1,6 @@
+{"t": 0.0, "frame": "frame-000001.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}
+{"t": 2.0, "frame": "frame-000002.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}
+{"t": 4.0, "frame": "frame-000003.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}
+{"t": 6.0, "frame": "frame-000004.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}
+{"t": 8.0, "frame": "frame-000005.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}
+{"t": 10.0, "frame": "frame-000006.jpg", "latency_s": null, "error": "HTTPError: HTTP Error 404: Not Found"}

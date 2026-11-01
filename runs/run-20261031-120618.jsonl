@@ -1,0 +1,6 @@
+{"t": 0.0, "frame": "frame-000001.jpg", "latency_s": 4.875, "response": {"event": false, "type": "none", "confidence": 0, "facts": ""}}
+{"t": 2.0, "frame": "frame-000002.jpg", "latency_s": 4.173, "response": {"event": false, "type": "none", "confidence": 0, "facts": ""}}
+{"t": 4.0, "frame": "frame-000003.jpg", "latency_s": 6.631, "response": {"event": true, "type": "possible_package_theft", "confidence": 0.62, "facts": "hombre con gorro y caja en mano frente a puerta 2C"}}
+{"t": 6.0, "frame": "frame-000004.jpg", "latency_s": 5.528, "response": {"event": true, "type": "suspicious behavior", "confidence": 0.85, "facts": "adult male in beanie and teal shirt bent over near package at apartment door 2C staring toward camera"}}
+{"t": 8.0, "frame": "frame-000005.jpg", "latency_s": 4.129, "response": {"event": false, "type": "none", "confidence": 0, "facts": ""}}
+{"t": 10.0, "frame": "frame-000006.jpg", "latency_s": 4.775, "response": {"event": true, "type": "package_delivery", "confidence": 0.95, "facts": "Cardboard box delivered on doorstep of unit 2C in front of closed door"}}
